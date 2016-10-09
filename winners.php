@@ -1,5 +1,5 @@
 <?php
-$correct_answers=array("Brazil","Argentina","England","Uruguay");
+$correct_answers=["Brazil","Argentina","England","Uruguay"];
 $winners;
 $errors=false;
 $msg="";
